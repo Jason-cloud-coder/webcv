@@ -1,14 +1,14 @@
 {
   "main": {
     "name":"Jason Hao",
-    "description":"have aus pr",
+    "description":"open to find job with pr",
     "image":"profile.jpg",
     "bio":"My name is Jason, a Tencent solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
     "contactmessage":"Thank you for your feedback.",
     "email": "jas@gmail.com.au",
     "phone": "(04) 1234 5678",
-    "github":"https://github.com/CyberlarkCode",
-    "project":"https://github.com/CyberlarkCode",
+    "github":"https://github.com/Jason-cloud-coder/",
+    "project":"https://github.com/Jason-cloud-coder/",
     "address":{
       "line1":"Address: 13 Main St",
       "line2":"City: Sydney",
