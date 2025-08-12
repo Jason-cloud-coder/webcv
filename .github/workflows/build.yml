@@ -1,3 +1,6 @@
+env:  # 添加 env 全局配置块
+  NODE_OPTIONS: "--openssl-legacy-provider"
+
 name: Build
 
 # Controls when the workflow will run
